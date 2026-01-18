@@ -52,23 +52,16 @@ All steps are executed sequentially within a single Jupyter Notebook to ensure r
 - Matplotlib / Seaborn
 - Scikit-learn
 
----
-
-## 5. Project Structure
-
-iris_apex_phase_4.ipynb//
-README.md
-
 
 ---
 
-## 6. Results and Observations
+## 5. Results and Observations
 
 The analysis highlights strong separability between classes based on petal-related features, while sepal features show partial overlap. Classification results demonstrate high accuracy, confirming the suitability of the dataset for supervised learning demonstrations.
 
 ---
 
-## 7. Conclusion
+## 6. Conclusion
 
 This project provides a structured introduction to exploratory data analysis and classification using a standard dataset. It reinforces core machine learning concepts such as feature analysis, model evaluation, and reproducible experimentation.
 
